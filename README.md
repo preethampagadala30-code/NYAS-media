@@ -288,7 +288,7 @@
     <!-- JavaScript for Mobile Menu Toggle and Gemini API calls -->
     <script>
         // API Key is required for the Gemini API call.
-        const apiKey = "";
+        const apiKey = "AIzaSyD8zjn5zr9xiyX99RpktXUlQwaYF2yx1v4";
         const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
 
         // Utility function for exponential backoff
